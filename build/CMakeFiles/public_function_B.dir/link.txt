@@ -1,2 +1,0 @@
-/usr/bin/ar qc libpublic_function_B.a CMakeFiles/public_function_B.dir/function_B/function_B.cc.o
-/usr/bin/ranlib libpublic_function_B.a

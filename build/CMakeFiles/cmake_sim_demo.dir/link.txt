@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_sim_demo.dir/main.cc.o -o cmake_sim_demo  libpublic_function_B.a function_A/libm_function_A.a function_C_Top/libm_function_C_Top.a libpublic_function_B.a 

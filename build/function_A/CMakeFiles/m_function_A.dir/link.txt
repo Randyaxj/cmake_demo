@@ -1,0 +1,2 @@
+/usr/bin/ar qc libm_function_A.a CMakeFiles/m_function_A.dir/function_A.cc.o
+/usr/bin/ranlib libm_function_A.a
